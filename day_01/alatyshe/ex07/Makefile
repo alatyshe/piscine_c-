@@ -4,11 +4,11 @@ CXXFLAGS	= -Wall -Wextra -Werror
 
 #------------------------------------
 
-FILES		= megaphone.cpp
+FILES		= main.cpp Contact.class.cpp
 
-NAME		= megaphone
+NAME		= replace
 
-OBJECTS		= megaphone.o
+OBJECTS		= main.o
 
 #------ make ------------
 
